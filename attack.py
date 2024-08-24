@@ -41,4 +41,4 @@ def main():
         print("Invalid option")
 
 if __name__ == "__main__":
-    main(
+    main( )
